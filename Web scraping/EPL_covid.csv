@@ -1,0 +1,364 @@
+date,home_team,away_team,result_full,goal_home_ft,goal_away_ft,match_winner
+2020-07-19,AFC Bournemouth,Southampton,0-2,0,2,A
+2020-07-12,AFC Bournemouth,Leicester City,4-1,4,1,A
+2020-07-09,AFC Bournemouth,Tottenham Hotspur,0-0,0,0,D
+2020-07-01,AFC Bournemouth,Newcastle United,1-4,1,4,D
+2020-06-20,AFC Bournemouth,Crystal Palace,0-2,0,2,A
+2021-02-21,Arsenal,Manchester City,0-1,0,1,D
+2021-02-14,Arsenal,Leeds United,4-2,4,2,A
+2021-01-30,Arsenal,Manchester United,0-0,0,0,A
+2021-01-18,Arsenal,Newcastle United,3-0,3,0,A
+2021-01-14,Arsenal,Crystal Palace,0-0,0,0,A
+2020-12-26,Arsenal,Chelsea,3-1,3,1,D
+2020-12-16,Arsenal,Southampton,1-1,1,1,D
+2020-12-13,Arsenal,Burnley,0-1,0,1,H
+2020-11-29,Arsenal,Wolverhampton Wanderers,1-2,1,2,H
+2020-11-08,Arsenal,Aston Villa,0-3,0,3,H
+2020-10-25,Arsenal,Leicester City,0-1,0,1,D
+2020-10-04,Arsenal,Sheffield United,2-1,2,1,D
+2020-09-19,Arsenal,West Ham United,2-1,2,1,A
+2020-07-26,Arsenal,Watford,3-2,3,2,A
+2020-07-15,Arsenal,Liverpool,2-1,2,1,H
+2020-07-07,Arsenal,Leicester City,1-1,1,1,A
+2020-07-01,Arsenal,Norwich City,4-0,4,0,H
+2021-03-06,Aston Villa,Wolverhampton Wanderers,0-0,0,0,D
+2021-02-21,Aston Villa,Leicester City,1-2,1,2,H
+2021-02-06,Aston Villa,Arsenal,1-0,1,0,H
+2021-02-03,Aston Villa,West Ham United,1-3,1,3,A
+2021-01-23,Aston Villa,Newcastle United,2-0,2,0,A
+2020-12-26,Aston Villa,Crystal Palace,3-0,3,0,A
+2020-12-17,Aston Villa,Burnley,0-0,0,0,H
+2020-11-21,Aston Villa,Brighton and Hove Albion,1-2,1,2,H
+2020-11-01,Aston Villa,Southampton,3-4,3,4,D
+2020-10-23,Aston Villa,Leeds United,0-3,0,3,H
+2020-10-04,Aston Villa,Liverpool,7-2,7,2,A
+2020-09-21,Aston Villa,Sheffield United,1-0,1,0,D
+2020-07-21,Aston Villa,Arsenal,1-0,1,0,H
+2020-07-12,Aston Villa,Crystal Palace,2-0,2,0,D
+2020-07-09,Aston Villa,Manchester United,0-3,0,3,A
+2020-06-27,Aston Villa,Wolverhampton Wanderers,0-1,0,1,H
+2020-06-21,Aston Villa,Chelsea,1-2,1,2,H
+2020-06-17,Aston Villa,Sheffield United,0-0,0,0,H
+2021-03-06,Brighton and Hove Albion,Leicester City,1-2,1,2,A
+2021-02-22,Brighton and Hove Albion,Crystal Palace,1-2,1,2,A
+2021-02-13,Brighton and Hove Albion,Aston Villa,0-0,0,0,D
+2021-01-31,Brighton and Hove Albion,Tottenham Hotspur,1-0,1,0,D
+2021-01-27,Brighton and Hove Albion,Fulham,0-0,0,0,A
+2021-01-02,Brighton and Hove Albion,Wolverhampton Wanderers,3-3,3,3,H
+2020-12-29,Brighton and Hove Albion,Arsenal,0-1,0,1,H
+2020-12-20,Brighton and Hove Albion,Sheffield United,1-1,1,1,H
+2020-12-07,Brighton and Hove Albion,Southampton,1-2,1,2,A
+2020-11-28,Brighton and Hove Albion,Liverpool,1-1,1,1,A
+2020-11-06,Brighton and Hove Albion,Burnley,0-0,0,0,H
+2020-10-26,Brighton and Hove Albion,West Bromwich Albion,1-1,1,1,D
+2020-09-26,Brighton and Hove Albion,Manchester United,2-3,2,3,H
+2020-09-14,Brighton and Hove Albion,Chelsea,1-3,1,3,D
+2020-07-20,Brighton and Hove Albion,Newcastle United,0-0,0,0,D
+2020-07-11,Brighton and Hove Albion,Manchester City,0-5,0,5,D
+2020-07-08,Brighton and Hove Albion,Liverpool,1-3,1,3,H
+2020-06-30,Brighton and Hove Albion,Manchester United,0-3,0,3,A
+2020-06-20,Brighton and Hove Albion,Arsenal,2-1,2,1,A
+2021-03-06,Burnley,Arsenal,1-1,1,1,A
+2021-03-03,Burnley,Leicester City,1-1,1,1,A
+2021-02-20,Burnley,West Bromwich Albion,0-0,0,0,A
+2021-02-17,Burnley,Fulham,1-1,1,1,A
+2021-02-06,Burnley,Brighton and Hove Albion,1-1,1,1,H
+2021-02-03,Burnley,Manchester City,0-2,0,2,A
+2021-01-27,Burnley,Aston Villa,3-2,3,2,H
+2021-01-12,Burnley,Manchester United,0-1,0,1,H
+2020-12-29,Burnley,Sheffield United,1-0,1,0,H
+2020-12-21,Burnley,Wolverhampton Wanderers,2-1,2,1,H
+2020-12-05,Burnley,Everton,1-1,1,1,A
+2020-11-23,Burnley,Crystal Palace,1-0,1,0,A
+2020-10-31,Burnley,Chelsea,0-3,0,3,D
+2020-10-26,Burnley,Tottenham Hotspur,0-1,0,1,H
+2020-09-26,Burnley,Southampton,0-1,0,1,A
+2020-07-26,Burnley,Brighton and Hove Albion,1-2,1,2,H
+2020-07-15,Burnley,Wolverhampton Wanderers,1-1,1,1,A
+2020-07-05,Burnley,Sheffield United,1-1,1,1,D
+2020-06-25,Burnley,Watford,1-0,1,0,A
+2021-02-28,Chelsea,Manchester United,0-0,0,0,D
+2021-02-15,Chelsea,Newcastle United,2-0,2,0,H
+2021-01-31,Chelsea,Burnley,2-0,2,0,D
+2021-01-27,Chelsea,Wolverhampton Wanderers,0-0,0,0,D
+2021-01-03,Chelsea,Manchester City,1-3,1,3,A
+2020-12-28,Chelsea,Aston Villa,1-1,1,1,A
+2020-12-21,Chelsea,West Ham United,3-0,3,0,A
+2020-12-05,Chelsea,Leeds United,3-1,3,1,A
+2020-11-29,Chelsea,Tottenham Hotspur,0-0,0,0,A
+2020-11-07,Chelsea,Sheffield United,4-1,4,1,H
+2020-10-17,Chelsea,Southampton,3-3,3,3,A
+2020-10-03,Chelsea,Crystal Palace,4-0,4,0,A
+2020-09-20,Chelsea,Liverpool,0-2,0,2,H
+2020-07-26,Chelsea,Wolverhampton Wanderers,2-0,2,0,H
+2020-07-14,Chelsea,Norwich City,1-0,1,0,H
+2020-07-04,Chelsea,Watford,3-0,3,0,H
+2020-06-25,Chelsea,Manchester City,2-1,2,1,D
+2021-03-03,Crystal Palace,Manchester United,0-0,0,0,H
+2021-02-28,Crystal Palace,Fulham,0-0,0,0,A
+2021-02-13,Crystal Palace,Burnley,0-3,0,3,A
+2021-01-30,Crystal Palace,Wolverhampton Wanderers,1-0,1,0,A
+2021-01-26,Crystal Palace,West Ham United,2-3,2,3,H
+2021-01-02,Crystal Palace,Sheffield United,2-0,2,0,H
+2020-12-28,Crystal Palace,Leicester City,1-1,1,1,A
+2020-12-19,Crystal Palace,Liverpool,0-7,0,7,D
+2020-11-27,Crystal Palace,Newcastle United,0-2,0,2,H
+2020-11-07,Crystal Palace,Leeds United,4-1,4,1,D
+2020-10-18,Crystal Palace,Brighton and Hove Albion,1-1,1,1,A
+2020-09-26,Crystal Palace,Everton,1-2,1,2,H
+2020-09-12,Crystal Palace,Southampton,1-0,1,0,A
+2020-07-26,Crystal Palace,Tottenham Hotspur,1-1,1,1,H
+2020-07-16,Crystal Palace,Manchester United,0-2,0,2,A
+2020-07-07,Crystal Palace,Chelsea,2-3,2,3,A
+2020-06-29,Crystal Palace,Burnley,0-1,0,1,D
+2021-03-01,Everton,Southampton,1-0,1,0,H
+2021-02-17,Everton,Manchester City,1-3,1,3,H
+2021-02-14,Everton,Fulham,0-2,0,2,A
+2021-01-30,Everton,Newcastle United,0-2,0,2,A
+2021-01-27,Everton,Leicester City,1-1,1,1,H
+2021-01-01,Everton,West Ham United,0-1,0,1,D
+2020-12-19,Everton,Arsenal,2-1,2,1,A
+2020-12-12,Everton,Chelsea,1-0,1,0,H
+2020-11-28,Everton,Leeds United,0-1,0,1,H
+2020-11-07,Everton,Manchester United,1-3,1,3,D
+2020-10-17,Everton,Liverpool,2-2,2,2,A
+2020-10-03,Everton,Brighton and Hove Albion,4-2,4,2,D
+2020-09-19,Everton,West Bromwich Albion,5-2,5,2,D
+2020-07-26,Everton,AFC Bournemouth,1-3,1,3,H
+2020-07-16,Everton,Aston Villa,1-1,1,1,D
+2020-07-09,Everton,Southampton,1-1,1,1,D
+2020-07-01,Everton,Leicester City,2-1,2,1,D
+2020-06-21,Everton,Liverpool,0-0,0,0,H
+2021-03-04,Fulham,Tottenham Hotspur,0-1,0,1,H
+2021-02-20,Fulham,Sheffield United,1-0,1,0,D
+2021-02-06,Fulham,West Ham United,0-0,0,0,D
+2021-02-03,Fulham,Leicester City,0-2,0,2,H
+2021-01-20,Fulham,Manchester United,1-2,1,2,A
+2021-01-16,Fulham,Chelsea,0-1,0,1,H
+2020-12-26,Fulham,Southampton,0-0,0,0,H
+2020-12-16,Fulham,Brighton and Hove Albion,0-0,0,0,D
+2020-12-13,Fulham,Liverpool,1-1,1,1,H
+2020-11-22,Fulham,Everton,2-3,2,3,A
+2020-11-02,Fulham,West Bromwich Albion,2-0,2,0,A
+2020-10-24,Fulham,Crystal Palace,1-2,1,2,A
+2020-09-28,Fulham,Aston Villa,0-3,0,3,H
+2020-09-12,Fulham,Arsenal,0-3,0,3,D
+2021-02-27,Leeds United,Aston Villa,0-1,0,1,A
+2021-02-23,Leeds United,Southampton,3-0,3,0,D
+2021-02-08,Leeds United,Crystal Palace,2-0,2,0,A
+2021-02-03,Leeds United,Everton,1-2,1,2,D
+2021-01-16,Leeds United,Brighton and Hove Albion,0-1,0,1,D
+2020-12-27,Leeds United,Burnley,1-0,1,0,H
+2020-12-16,Leeds United,Newcastle United,5-2,5,2,A
+2020-12-11,Leeds United,West Ham United,1-2,1,2,H
+2020-11-22,Leeds United,Arsenal,0-0,0,0,D
+2020-11-02,Leeds United,Leicester City,1-4,1,4,D
+2020-10-19,Leeds United,Wolverhampton Wanderers,0-1,0,1,H
+2020-10-03,Leeds United,Manchester City,1-1,1,1,A
+2020-09-19,Leeds United,Fulham,4-3,4,3,D
+2021-02-28,Leicester City,Arsenal,1-3,1,3,H
+2021-02-13,Leicester City,Liverpool,3-1,3,1,H
+2021-01-31,Leicester City,Leeds United,1-3,1,3,H
+2021-01-19,Leicester City,Chelsea,2-0,2,0,D
+2021-01-16,Leicester City,Southampton,2-0,2,0,H
+2020-12-26,Leicester City,Manchester United,2-2,2,2,A
+2020-12-16,Leicester City,Everton,0-2,0,2,A
+2020-12-13,Leicester City,Brighton and Hove Albion,3-0,3,0,A
+2020-11-30,Leicester City,Fulham,1-2,1,2,H
+2020-11-08,Leicester City,Wolverhampton Wanderers,1-0,1,0,A
+2020-10-18,Leicester City,Aston Villa,0-1,0,1,H
+2020-10-04,Leicester City,West Ham United,0-3,0,3,A
+2020-09-20,Leicester City,Burnley,4-2,4,2,D
+2020-07-26,Leicester City,Manchester United,0-2,0,2,H
+2020-07-16,Leicester City,Sheffield United,2-0,2,0,H
+2020-07-04,Leicester City,Crystal Palace,3-0,3,0,A
+2020-06-23,Leicester City,Brighton and Hove Albion,0-0,0,0,A
+2021-03-07,Liverpool,Fulham,0-1,0,1,H
+2021-03-04,Liverpool,Chelsea,0-1,0,1,A
+2021-02-20,Liverpool,Everton,0-2,0,2,D
+2021-02-07,Liverpool,Manchester City,1-4,1,4,A
+2021-02-03,Liverpool,Brighton and Hove Albion,0-1,0,1,D
+2021-01-21,Liverpool,Burnley,0-1,0,1,A
+2021-01-17,Liverpool,Manchester United,0-0,0,0,H
+2020-12-27,Liverpool,West Bromwich Albion,1-1,1,1,H
+2020-12-16,Liverpool,Tottenham Hotspur,2-1,2,1,A
+2020-12-06,Liverpool,Wolverhampton Wanderers,4-0,4,0,H
+2020-11-22,Liverpool,Leicester City,3-0,3,0,D
+2020-10-31,Liverpool,West Ham United,2-1,2,1,A
+2020-10-24,Liverpool,Sheffield United,2-1,2,1,D
+2020-09-28,Liverpool,Arsenal,3-1,3,1,H
+2020-09-12,Liverpool,Leeds United,4-3,4,3,A
+2020-07-22,Liverpool,Chelsea,5-3,5,3,A
+2020-07-11,Liverpool,Burnley,1-1,1,1,H
+2020-07-05,Liverpool,Aston Villa,2-0,2,0,A
+2020-06-24,Liverpool,Crystal Palace,4-0,4,0,H
+2021-03-07,Manchester City,Manchester United,0-2,0,2,A
+2021-03-02,Manchester City,Wolverhampton Wanderers,4-1,4,1,H
+2021-02-27,Manchester City,West Ham United,2-1,2,1,D
+2021-02-13,Manchester City,Tottenham Hotspur,3-0,3,0,A
+2021-01-30,Manchester City,Sheffield United,1-0,1,0,H
+2021-01-20,Manchester City,Aston Villa,2-0,2,0,H
+2021-01-17,Manchester City,Crystal Palace,4-0,4,0,A
+2021-01-13,Manchester City,Brighton and Hove Albion,1-0,1,0,H
+2020-12-26,Manchester City,Newcastle United,2-0,2,0,D
+2020-12-15,Manchester City,West Bromwich Albion,1-1,1,1,H
+2020-12-05,Manchester City,Fulham,2-0,2,0,H
+2020-11-28,Manchester City,Burnley,5-0,5,0,A
+2020-11-08,Manchester City,Liverpool,1-1,1,1,A
+2020-10-17,Manchester City,Arsenal,1-0,1,0,A
+2020-09-27,Manchester City,Leicester City,2-5,2,5,H
+2020-07-26,Manchester City,Norwich City,5-0,5,0,H
+2020-07-15,Manchester City,AFC Bournemouth,2-1,2,1,A
+2020-07-08,Manchester City,Newcastle United,5-0,5,0,H
+2020-07-02,Manchester City,Liverpool,4-0,4,0,A
+2020-06-22,Manchester City,Burnley,5-0,5,0,H
+2020-06-17,Manchester City,Arsenal,3-0,3,0,D
+2021-02-21,Manchester United,Newcastle United,3-1,3,1,A
+2021-02-06,Manchester United,Everton,3-3,3,3,A
+2021-02-02,Manchester United,Southampton,9-0,9,0,H
+2021-01-27,Manchester United,Sheffield United,1-2,1,2,D
+2021-01-01,Manchester United,Aston Villa,2-1,2,1,A
+2020-12-29,Manchester United,Wolverhampton Wanderers,1-0,1,0,H
+2020-12-20,Manchester United,Leeds United,6-2,6,2,D
+2020-12-12,Manchester United,Manchester City,0-0,0,0,D
+2020-11-21,Manchester United,West Bromwich Albion,1-0,1,0,A
+2020-11-01,Manchester United,Arsenal,0-1,0,1,A
+2020-10-24,Manchester United,Chelsea,0-0,0,0,D
+2020-10-04,Manchester United,Tottenham Hotspur,1-6,1,6,D
+2020-09-19,Manchester United,Crystal Palace,1-3,1,3,A
+2020-07-22,Manchester United,West Ham United,1-1,1,1,D
+2020-07-13,Manchester United,Southampton,2-2,2,2,D
+2020-07-04,Manchester United,AFC Bournemouth,5-2,5,2,D
+2020-06-24,Manchester United,Sheffield United,3-0,3,0,D
+2021-02-27,Newcastle United,Wolverhampton Wanderers,1-1,1,1,H
+2021-02-06,Newcastle United,Southampton,3-2,3,2,A
+2021-02-02,Newcastle United,Crystal Palace,1-2,1,2,H
+2021-01-26,Newcastle United,Leeds United,1-2,1,2,H
+2021-01-03,Newcastle United,Leicester City,1-2,1,2,A
+2020-12-30,Newcastle United,Liverpool,0-0,0,0,A
+2020-12-19,Newcastle United,Fulham,1-1,1,1,H
+2020-12-12,Newcastle United,West Bromwich Albion,2-1,2,1,H
+2020-11-21,Newcastle United,Chelsea,0-2,0,2,H
+2020-11-01,Newcastle United,Everton,2-1,2,1,H
+2020-10-17,Newcastle United,Manchester United,1-4,1,4,D
+2020-10-03,Newcastle United,Burnley,3-1,3,1,H
+2020-09-20,Newcastle United,Brighton and Hove Albion,0-3,0,3,A
+2020-07-26,Newcastle United,Liverpool,1-3,1,3,H
+2020-07-15,Newcastle United,Tottenham Hotspur,1-3,1,3,A
+2020-07-05,Newcastle United,West Ham United,2-2,2,2,A
+2020-06-24,Newcastle United,Aston Villa,1-1,1,1,D
+2020-06-21,Newcastle United,Sheffield United,3-0,3,0,H
+2020-07-18,Norwich City,Burnley,0-2,0,2,A
+2020-07-11,Norwich City,West Ham United,0-4,0,4,A
+2020-07-04,Norwich City,Brighton and Hove Albion,0-1,0,1,A
+2020-06-24,Norwich City,Everton,0-1,0,1,D
+2020-06-19,Norwich City,Southampton,0-3,0,3,H
+2021-03-06,Sheffield United,Southampton,0-2,0,2,A
+2021-03-03,Sheffield United,Aston Villa,1-0,1,0,A
+2021-02-28,Sheffield United,Liverpool,0-2,0,2,H
+2021-02-07,Sheffield United,Chelsea,1-2,1,2,A
+2021-02-02,Sheffield United,West Bromwich Albion,2-1,2,1,A
+2021-01-17,Sheffield United,Tottenham Hotspur,1-3,1,3,H
+2021-01-12,Sheffield United,Newcastle United,1-0,1,0,H
+2020-12-26,Sheffield United,Everton,0-1,0,1,H
+2020-12-17,Sheffield United,Manchester United,2-3,2,3,A
+2020-12-06,Sheffield United,Leicester City,1-2,1,2,A
+2020-11-22,Sheffield United,West Ham United,0-1,0,1,A
+2020-10-31,Sheffield United,Manchester City,0-1,0,1,A
+2020-10-18,Sheffield United,Fulham,1-1,1,1,A
+2020-09-27,Sheffield United,Leeds United,0-1,0,1,H
+2020-09-14,Sheffield United,Wolverhampton Wanderers,0-2,0,2,A
+2020-07-20,Sheffield United,Everton,0-1,0,1,H
+2020-07-11,Sheffield United,Chelsea,3-0,3,0,A
+2020-07-08,Sheffield United,Wolverhampton Wanderers,1-0,1,0,H
+2020-07-02,Sheffield United,Tottenham Hotspur,3-1,3,1,A
+2021-02-20,Southampton,Chelsea,1-1,1,1,H
+2021-02-14,Southampton,Wolverhampton Wanderers,1-2,1,2,D
+2021-01-30,Southampton,Aston Villa,0-1,0,1,A
+2021-01-26,Southampton,Arsenal,1-3,1,3,A
+2021-01-04,Southampton,Liverpool,1-0,1,0,H
+2020-12-29,Southampton,West Ham United,0-0,0,0,A
+2020-12-19,Southampton,Manchester City,0-1,0,1,H
+2020-12-13,Southampton,Sheffield United,3-0,3,0,D
+2020-11-29,Southampton,Manchester United,2-3,2,3,H
+2020-11-06,Southampton,Newcastle United,2-0,2,0,D
+2020-10-25,Southampton,Everton,2-0,2,0,H
+2020-10-04,Southampton,West Bromwich Albion,2-0,2,0,A
+2020-09-20,Southampton,Tottenham Hotspur,2-5,2,5,D
+2020-07-26,Southampton,Sheffield United,3-1,3,1,A
+2020-07-16,Southampton,Brighton and Hove Albion,1-1,1,1,H
+2020-07-05,Southampton,Manchester City,1-0,1,0,A
+2020-06-25,Southampton,Arsenal,0-2,0,2,H
+2021-02-28,Tottenham Hotspur,Burnley,4-0,4,0,A
+2021-02-07,Tottenham Hotspur,West Bromwich Albion,2-0,2,0,H
+2021-02-04,Tottenham Hotspur,Chelsea,0-1,0,1,A
+2021-01-28,Tottenham Hotspur,Liverpool,1-3,1,3,D
+2021-01-13,Tottenham Hotspur,Fulham,1-1,1,1,H
+2021-01-02,Tottenham Hotspur,Leeds United,3-0,3,0,D
+2020-12-20,Tottenham Hotspur,Leicester City,0-2,0,2,H
+2020-12-06,Tottenham Hotspur,Arsenal,2-0,2,0,D
+2020-11-21,Tottenham Hotspur,Manchester City,2-0,2,0,H
+2020-11-01,Tottenham Hotspur,Brighton and Hove Albion,2-1,2,1,A
+2020-10-18,Tottenham Hotspur,West Ham United,3-3,3,3,H
+2020-09-27,Tottenham Hotspur,Newcastle United,1-1,1,1,D
+2020-09-13,Tottenham Hotspur,Everton,0-1,0,1,H
+2020-07-19,Tottenham Hotspur,Leicester City,3-0,3,0,H
+2020-07-12,Tottenham Hotspur,Arsenal,2-1,2,1,H
+2020-07-06,Tottenham Hotspur,Everton,1-0,1,0,H
+2020-06-23,Tottenham Hotspur,West Ham United,2-0,2,0,A
+2020-06-19,Tottenham Hotspur,Manchester United,1-1,1,1,D
+2020-07-21,Watford,Manchester City,0-4,0,4,A
+2020-07-11,Watford,Newcastle United,2-1,2,1,H
+2020-07-07,Watford,Norwich City,2-1,2,1,H
+2020-06-28,Watford,Southampton,1-3,1,3,D
+2020-06-20,Watford,Leicester City,1-1,1,1,A
+2021-03-07,West Bromwich Albion,Newcastle United,0-0,0,0,D
+2021-03-04,West Bromwich Albion,Everton,0-1,0,1,A
+2021-02-27,West Bromwich Albion,Brighton and Hove Albion,1-0,1,0,H
+2021-02-14,West Bromwich Albion,Manchester United,1-1,1,1,H
+2021-01-30,West Bromwich Albion,Fulham,2-2,2,2,A
+2021-01-26,West Bromwich Albion,Manchester City,0-5,0,5,D
+2021-01-02,West Bromwich Albion,Arsenal,0-4,0,4,A
+2020-12-29,West Bromwich Albion,Leeds United,0-5,0,5,H
+2020-12-20,West Bromwich Albion,Aston Villa,0-3,0,3,H
+2020-12-06,West Bromwich Albion,Crystal Palace,1-5,1,5,D
+2020-11-28,West Bromwich Albion,Sheffield United,1-0,1,0,H
+2020-11-08,West Bromwich Albion,Tottenham Hotspur,0-1,0,1,D
+2020-10-19,West Bromwich Albion,Burnley,0-0,0,0,H
+2020-09-26,West Bromwich Albion,Chelsea,3-3,3,3,H
+2020-09-13,West Bromwich Albion,Leicester City,0-3,0,3,H
+2021-02-21,West Ham United,Tottenham Hotspur,2-1,2,1,H
+2021-02-15,West Ham United,Sheffield United,3-0,3,0,A
+2021-01-31,West Ham United,Liverpool,1-3,1,3,A
+2021-01-19,West Ham United,West Bromwich Albion,2-1,2,1,H
+2021-01-16,West Ham United,Burnley,1-0,1,0,H
+2020-12-27,West Ham United,Brighton and Hove Albion,2-2,2,2,A
+2020-12-16,West Ham United,Crystal Palace,1-1,1,1,H
+2020-12-05,West Ham United,Manchester United,1-3,1,3,H
+2020-11-30,West Ham United,Aston Villa,2-1,2,1,H
+2020-11-07,West Ham United,Fulham,1-0,1,0,A
+2020-10-24,West Ham United,Manchester City,1-1,1,1,A
+2020-09-27,West Ham United,Wolverhampton Wanderers,4-0,4,0,A
+2020-09-12,West Ham United,Newcastle United,0-2,0,2,A
+2020-07-26,West Ham United,Aston Villa,1-1,1,1,H
+2020-07-17,West Ham United,Watford,3-1,3,1,H
+2020-07-08,West Ham United,Burnley,0-1,0,1,A
+2020-07-01,West Ham United,Chelsea,3-2,3,2,H
+2020-06-20,West Ham United,Wolverhampton Wanderers,0-2,0,2,H
+2021-02-19,Wolverhampton Wanderers,Leeds United,1-0,1,0,D
+2021-02-07,Wolverhampton Wanderers,Leicester City,0-0,0,0,A
+2021-02-02,Wolverhampton Wanderers,Arsenal,2-1,2,1,H
+2021-01-16,Wolverhampton Wanderers,West Bromwich Albion,2-3,2,3,D
+2021-01-12,Wolverhampton Wanderers,Everton,1-2,1,2,H
+2020-12-27,Wolverhampton Wanderers,Tottenham Hotspur,1-1,1,1,H
+2020-12-15,Wolverhampton Wanderers,Chelsea,2-1,2,1,A
+2020-12-12,Wolverhampton Wanderers,Aston Villa,0-1,0,1,D
+2020-11-23,Wolverhampton Wanderers,Southampton,1-1,1,1,H
+2020-10-30,Wolverhampton Wanderers,Crystal Palace,2-0,2,0,A
+2020-10-25,Wolverhampton Wanderers,Newcastle United,1-1,1,1,H
+2020-10-04,Wolverhampton Wanderers,Fulham,1-0,1,0,D
+2020-09-21,Wolverhampton Wanderers,Manchester City,1-3,1,3,A
+2020-07-20,Wolverhampton Wanderers,Crystal Palace,2-0,2,0,A
+2020-07-12,Wolverhampton Wanderers,Everton,3-0,3,0,D
+2020-07-04,Wolverhampton Wanderers,Arsenal,0-2,0,2,D
+2020-06-24,Wolverhampton Wanderers,AFC Bournemouth,1-0,1,0,H
